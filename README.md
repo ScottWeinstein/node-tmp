@@ -1,4 +1,4 @@
-# Tmp
+# Temporary
 
 A simple temporary file and directory creator for [node.js.][1]
 
